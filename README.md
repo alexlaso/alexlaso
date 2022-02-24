@@ -52,10 +52,14 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 - 🤘 La música, especialmente Metal o electrónica.
 - 🧙‍♂️Rol y D&D.
 - 🏀Deportes, como el boxeo o el baloncesto.
-- 📕Libros, lista leyendo/leídos:
+- <details>
+    <summary>📕Libros</summary>
+    
     - La saga de Geralt de Rivia.
     - EL libro de los cinco anillos.
     - Metro 2033.
+  </details>
+  
 - 🏎Coches, tuning y JDM.
 ---
 
