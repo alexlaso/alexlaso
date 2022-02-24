@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Apartado para empezar con un gif y un saludo-->
-<p>
+
 <img src="https://c.tenor.com/q1pTbvTBF5YAAAAd/vagabond_gif_1.gif"/>
-  <h2>Hola, me llamo Alejandro Laso y actualmente me encuentro estudiando 2º de DAM</h2>
-</p>
+
+---
+
+## Hola, me llamo Alejandro Laso y actualmente me encuentro estudiando 2º de DAM
+  
+---
 
 <p>
   Poco a poco se intenta mejorar constantemente, siguiendo la Vía del Código Marcial, sin salirse del camino.<br/>
