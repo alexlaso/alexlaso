@@ -49,8 +49,8 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 </p>
 
     Compañeros importantes
-- [Alguien que me ha ayudado mucho a lo largo del camino.](github.com/Mario999X)
-- [Una loli adoptada](github.com/Idliketobealoli)
-- [Un gato electrónico](github.com/enekor)
+- [Alguien que me ha ayudado mucho a lo largo del camino.](https://github.com/Mario999X)
+- [Una loli adoptada](https://github.com/Idliketobealoli)
+- [Un gato electrónico](https://github.com/enekor)
 
 ![alt jdm](https://i.pinimg.com/originals/74/8c/7d/748c7d0dd14909493f922bc2caa22f17.gif)
