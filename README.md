@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  Poco a poco se intenta mejorar constantemente, siguiendo la Vía del Código Marcial, sin salirse del camino</p>
+  Poco a poco se intenta mejorar constantemente, siguiendo la Vía del Código Marcial, sin salirse del camino.
+  Algunos de mis gustos consisten en los videojuegos, a los cuales espero dedicar mi futuro, el anime y el manga y la música, especialmente Metal o electrónica.
+  Mis hobbies incluyen los coches, pasión por el JDM.
+  <img src="https://i.pinimg.com/originals/74/8c/7d/748c7d0dd14909493f922bc2caa22f17.gif"/>
+</p>
