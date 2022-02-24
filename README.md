@@ -24,8 +24,31 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 
 <!-- Información personal -->
     🖤Gustos personales🖤
-- 🎮Los videojuegos, a los cuales espero dedicar mi futuro.
-- ¯\\_\_(ツ)__/¯ El anime y el manga.
+- <details>
+    <summary>🎮Los videojuegos, a los cuales espero dedicar mi futuro.</summary>
+    
+    - League of legends
+    - Lost ark
+    - Apex
+    - Total War
+    - Dead by Daylight
+    - Need for Speed
+    </details>
+    
+- <details>
+    <summary>👒Anime/Manga</summary>
+    
+    - One piece
+    - Vagabond
+    - Dragon ball
+    - Berserk
+    - Naruto
+    - Tower of god
+    - Slam dunk
+    - Solo leveling
+    - Greatest outcast
+  </details>
+    
 - 🤘 La música, especialmente Metal o electrónica.
 - 🧙‍♂️Rol y D&D.
 - 🏀Deportes, como el boxeo o el baloncesto.
