@@ -28,6 +28,10 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 - ¯\\_\_(ツ)__/¯ El anime y el manga.
 - 🤘 La música, especialmente Metal o electrónica.
 - 🧙‍♂️Rol y D&D.
+- 📕Libros, lista leyendo/leídos:
+    - La saga de Geralt de Rivia.
+    - EL libro de los cinco anillos.
+    - Metro 2033.
 - 🏎Coches, tuning y JDM.
 ---
 
