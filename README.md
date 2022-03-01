@@ -70,6 +70,7 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="50" />
 <img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="50"/>
 </p>
 
 <h3 align="center">Uso estas tecnologías.</h3>
@@ -78,6 +79,7 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50"/>
 <img src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="50"/>
 </p>
 
     Compañeros importantes
