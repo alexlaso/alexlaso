@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 <!-- Introducción simple -->
 Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin salirse del camino.<br/>
 
+<!-- Actividad -->
+<figure><embed src="https://wakatime.com/share/@4dc2bfed-2ba2-41a6-8906-5dcf3d067e59/e1245307-df82-4d84-b0c7-73c12f529b82.svg"></embed></figure>
+
 <!-- Información personal -->
     🖤Gustos personales🖤
 - <details>
