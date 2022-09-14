@@ -25,7 +25,7 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 <!-- Actividad -->
     Actividad
 <img src="https://wakatime.com/share/@4dc2bfed-2ba2-41a6-8906-5dcf3d067e59/e1245307-df82-4d84-b0c7-73c12f529b82.svg" height="300"></img>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlaso&layout=compact)](https://github.com/alexlaso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlaso&theme=dark&layout=compact)](https://github.com/alexlaso/github-readme-stats)
 
 <!-- Información personal -->
     🖤Gustos personales🖤
