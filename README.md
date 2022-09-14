@@ -24,7 +24,7 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 
 <!-- Actividad -->
     Actividad
-<img src="https://wakatime.com/share/@4dc2bfed-2ba2-41a6-8906-5dcf3d067e59/e1245307-df82-4d84-b0c7-73c12f529b82.svg"></img>
+<img src="https://wakatime.com/share/@4dc2bfed-2ba2-41a6-8906-5dcf3d067e59/e1245307-df82-4d84-b0c7-73c12f529b82.svg" height="300"></img>
 
 <!-- Información personal -->
     🖤Gustos personales🖤
