@@ -33,11 +33,14 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
     <summary>🎮Los videojuegos, a los cuales espero dedicar mi futuro.</summary>
     
     - League of legends
+    - Valorant
     - Lost ark
     - Apex
     - Total War
     - Dead by Daylight
     - Need for Speed
+    - Monster Hunter
+    - Rainbow 6 Siege
     </details>
     
 - <details>
