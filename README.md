@@ -75,19 +75,19 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
     💻Información profesional💻
 <h3 align="center">Actualmente manejo estos lenguajes de programación.</h3>
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="50" />
-<img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="50"/>
+<img src="https://github.com/alexlaso/alexlaso/blob/main/images/javaicon.png" height="50" />
+<img src="https://github.com/alexlaso/alexlaso/blob/main/images/cssicon.png" height="50"/>
+<img src="https://github.com/alexlaso/alexlaso/blob/main/images/pythonicon.png" height="50"/>
+<img src="https://github.com/alexlaso/alexlaso/blob/main/images/htmlicon.png" height="50"/>
 </p>
 
 <h3 align="center">Uso estas tecnologías.</h3>
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50"/>
-<img src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" height="50"/>
+<img src="https://github.com/alexlaso/alexlaso/blob/main/images/intellijicon.png" height="50"/>
+<img src="https://github.com/alexlaso/alexlaso/blob/main/images/vscodeicon.png" height="50"/>
+<img src="https://github.com/alexlaso/alexlaso/blob/main/images/githubicon.png" height="50"/>
+<img src="https://github.com/alexlaso/alexlaso/blob/main/images/discordicon.png" height="50"/>
+<img src="https://github.com/alexlaso/alexlaso/blob/main/images/dockericon.png" height="50"/>
 </p>
 
     Compañeros importantes
