@@ -107,7 +107,7 @@ GitIgnore file   3 mins          █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-<p align="center>
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlaso&theme=dark&layout=compact)](https://github.com/alexlaso/github-readme-stats)
 <img src="https://wakatime.com/share/@4dc2bfed-2ba2-41a6-8906-5dcf3d067e59/c2ad2cb2-5647-43ba-8395-c3787a5293ab.svg" height="300"></img>
 </p>
