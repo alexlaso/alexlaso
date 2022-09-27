@@ -22,21 +22,6 @@ Here are some ideas to get you started:
 <!-- Introducción simple -->
 Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin salirse del camino.<br/>
 
-<!-- Actividad -->
-    Actividad
-<!--START_SECTION:waka-->
-
-```text
-From: 19 September 2022 - To: 26 September 2022
-
-Total Time: 1 hr 41 mins
-
-Kotlin           1 hr 37 mins    ████████████████████████░   96.31 %
-GitIgnore file   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-```
-
-<!--END_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlaso&theme=dark&layout=compact)](https://github.com/alexlaso/github-readme-stats)
 
 <!-- Información personal -->
     🖤Gustos personales🖤
@@ -106,6 +91,26 @@ GitIgnore file   3 mins          █░░░░░░░░░░░░░░�
 - [Una loli adoptada](https://github.com/Idliketobealoli)
 - [Un gato electrónico](https://github.com/enekor)
 - [Un periodista sin corazón](https://github.com/MarioGonzalezGomez)
+
+<!-- Actividad -->
+    Actividad
+<!--START_SECTION:waka-->
+
+```text
+From: 19 September 2022 - To: 26 September 2022
+
+Total Time: 1 hr 41 mins
+
+Kotlin           1 hr 37 mins    ████████████████████████░   96.31 %
+GitIgnore file   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+```
+
+<!--END_SECTION:waka-->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlaso&theme=dark&layout=compact)](https://github.com/alexlaso/github-readme-stats)
+<img src="https://wakatime.com/share/@4dc2bfed-2ba2-41a6-8906-5dcf3d067e59/c2ad2cb2-5647-43ba-8395-c3787a5293ab.svg" height="300"></img>
+</p>
 
 ![alt jdm](https://i.pinimg.com/originals/74/8c/7d/748c7d0dd14909493f922bc2caa22f17.gif)
 
