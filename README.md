@@ -97,12 +97,12 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2022 - To: 27 September 2022
+From: 28 August 2022 - To: 27 September 2022
 
-Total Time: 9 mins
+Total Time: 4 hrs 37 mins
 
-Kotlin           5 mins          ███████████████░░░░░░░░░░   60.06 %
-GitIgnore file   3 mins          ██████████░░░░░░░░░░░░░░░   39.94 %
+Kotlin           4 hrs 33 mins   ████████████████████████▓   98.48 %
+GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
