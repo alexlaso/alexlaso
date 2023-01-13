@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![alt musashi](https://c.tenor.com/q1pTbvTBF5YAAAAd/vagabond_gif_1.gif)
 
 ---
-### Hola, me llamo Alejandro Laso, tengo 22 años y actualmente me encuentro estudiando 2º de DAM  
+### Hola, me llamo Alejandro Laso, tengo 23 años y actualmente me encuentro estudiando 2º de DAM  
 ---
 <!-- Introducción simple -->
 Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin salirse del camino.<br/>
