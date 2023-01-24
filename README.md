@@ -97,7 +97,7 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 21 January 2023
+From: 23 December 2022 - To: 22 January 2023
 
 Total Time: 9 hrs 52 mins
 
