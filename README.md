@@ -84,7 +84,6 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 <img src="https://github.com/alexlaso/alexlaso/blob/main/images/githubicon.png" height="50"/>
 <img src="https://github.com/alexlaso/alexlaso/blob/main/images/discordicon.png" height="50"/>
 <img src="https://github.com/alexlaso/alexlaso/blob/main/images/dockericon.png" height="50"/>
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/sqlicon.png" height="50/>
 <img src="https://github.com/alexlaso/alexlaso/blob/main/images/mongoicon.png" height="50"/>
 </p>
 
