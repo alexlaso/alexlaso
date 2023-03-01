@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <!-- Apartado para empezar con un gif y un saludo-->
 
 ![alt musashi](https://c.tenor.com/q1pTbvTBF5YAAAAd/vagabond_gif_1.gif)
+![](https://komarev.com/ghpvc/?username=alexlaso&color=grey&style=flat&label=VISITAS)
 
 ---
 ### Hola, me llamo Alejandro Laso, tengo 23 años y actualmente me encuentro estudiando 2º de DAM  
