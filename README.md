@@ -99,11 +99,13 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2023 - To: 10 June 2023
+From: 12 May 2023 - To: 11 June 2023
 
-Total Time: 0 secs
+Total Time: 44 mins
 
-No activity tracked
+Java             43 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜   95.90 %
+YAML             1 min           🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.73 %
+GitIgnore file   0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.37 %
 ```
 
 <!--END_SECTION:waka-->
