@@ -99,7 +99,7 @@ Poco a poco mejorando constantemente, siguiendo la Vía del Código Marcial, sin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2023 - To: 12 July 2023
+From: 13 June 2023 - To: 13 July 2023
 
 Total Time: 0 secs
 
